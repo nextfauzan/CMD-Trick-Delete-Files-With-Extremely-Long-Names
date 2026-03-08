@@ -1,7 +1,5 @@
 # CMD-Trick-Delete-Files-With-Extremely-Long-Names
 
-Berikut versi **Bahasa Indonesia** yang cocok untuk README GitHub:
-
 ````markdown
 Kadang Windows tidak dapat menghapus file yang memiliki nama atau path yang sangat panjang.  
 Keterbatasan ini bisa diatasi dengan menggunakan **extended path prefix** pada Windows yaitu `\\?\`.
