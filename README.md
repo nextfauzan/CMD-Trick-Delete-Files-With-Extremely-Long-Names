@@ -16,7 +16,3 @@ del "\\?\C:\Users\Lenovo\Downloads\ACFrOgDnwfAVrhjWUlyKnbT1zd60OPW8J1XuC314PwRTg
 * `del` → Perintah untuk menghapus file
 * Berguna ketika file **tidak bisa dihapus melalui Windows Explorer atau CMD biasa**
 
-```
-
-Kalau mau, saya juga bisa buatkan **judul README yang lebih menarik seperti repositori GitHub populer** (misalnya: *“Windows Trick: Delete Undeletable Files”*) supaya terlihat lebih profesional.
-```
